@@ -192,9 +192,7 @@ To extend or modify the system:
 3. Experiment with different ML models in `train_ml_model()`
 4. Enhance analysis in `generate_analysis()`
 
-## License
 
-Open source - feel free to use and modify for your DeFi credit scoring needs.
 
 ---
 
